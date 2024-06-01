@@ -1,0 +1,6 @@
+2024/05/26-11:32:23.353 28f67 Reusing MANIFEST /home/gatsu/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/05/26-11:32:23.354 28f67 Recovering log #45
+2024/05/26-11:32:23.354 28f67 Reusing old log /home/gatsu/.config/discord/Local Storage/leveldb/000045.log 
+2024/05/26-11:36:23.848 28f6a Level-0 table #49: started
+2024/05/26-11:36:23.886 28f6a Level-0 table #49: 3100908 bytes OK
+2024/05/26-11:36:23.894 28f6a Delete type=0 #45
