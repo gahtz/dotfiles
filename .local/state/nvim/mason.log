@@ -1,0 +1,4 @@
+[INFO  Mon 09 Jan 2023 04:28:01 AM PST] .../packer/opt/mason.nvim/lua/mason-core/installer/init.lua:120: Executing installer for Package(name=lua-language-server)
+[INFO  Mon 09 Jan 2023 04:28:03 AM PST] .../packer/opt/mason.nvim/lua/mason-core/installer/init.lua:152: Installation succeeded for Package(name=lua-language-server)
+[INFO  Mon 09 Jan 2023 04:30:21 AM PST] .../packer/opt/mason.nvim/lua/mason-core/installer/init.lua:120: Executing installer for Package(name=lua-language-server)
+[INFO  Mon 09 Jan 2023 04:30:23 AM PST] .../packer/opt/mason.nvim/lua/mason-core/installer/init.lua:152: Installation succeeded for Package(name=lua-language-server)

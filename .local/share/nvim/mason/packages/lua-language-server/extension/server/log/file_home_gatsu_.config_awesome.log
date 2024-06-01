@@ -1,0 +1,619 @@
+[06:32:26.180][info] [#0:/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:66]: Lua Lsp startup, root: 	/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server
+[06:32:26.180][info] [#0:/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:67]: ROOT:	/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server
+[06:32:26.180][info] [#0:/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:68]: LOGPATH:	/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/log
+[06:32:26.180][info] [#0:/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:69]: METAPATH:	/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/meta
+[06:32:26.180][info] [#0:/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:70]: VERSION:	3.6.4-dev
+[06:32:26.193][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 1.563 MB
+        # 00 : 1.563 MB
+        # 01 : 0.000 MB
+        # 02 : 0.000 MB
+        # 03 : 0.000 MB
+        # 04 : 0.000 MB
+    --------------- Coroutine ---------------
+        Total:     0
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      0
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[06:32:26.196][info] [#0:script/language.lua:137]: VSC language: nil
+[06:32:26.196][info] [#0:script/language.lua:138]: LS  language: en-us
+[06:32:26.196][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/gatsu/.config/awesome
+[06:32:26.196][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/log/file_home_gatsu_.config_awesome.log
+[06:32:26.196][info] [#0:script/workspace/workspace.lua:51]: Workspace create: 	file:///home/gatsu/.config/awesome
+[06:32:26.298][info] [#0:script/provider/provider.lua:41]: Load config from client	file:///home/gatsu/.config/awesome
+[06:32:26.298][info] [#0:script/provider/provider.lua:42]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/usr/share/nvim/runtime/lua"] = true,
+        ["/usr/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[06:32:26.298][info] [#0:script/provider/provider.lua:41]: Load config from client	file:///home/gatsu/.config/awesome
+[06:32:26.299][info] [#0:script/provider/provider.lua:42]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/usr/share/nvim/runtime/lua"] = true,
+        ["/usr/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[06:32:26.299][info] [#0:script/provider/provider.lua:41]: Load config from client	file:///home/gatsu/.config/awesome
+[06:32:26.299][info] [#0:script/provider/provider.lua:42]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/usr/share/nvim/runtime/lua"] = true,
+        ["/usr/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[06:32:26.299][info] [#0:script/provider/provider.lua:56]: Load config from client	fallback
+[06:32:26.300][info] [#0:script/provider/provider.lua:57]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/usr/share/nvim/runtime/lua"] = true,
+        ["/usr/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[06:32:26.300][info] [#0:script/library.lua:209]: Init builtin library at:	file:///home/gatsu/.config/awesome
+[06:32:26.325][info] [#0:script/plugin.lua:86]: plugin path:	/home/gatsu/.config/awesome
+[06:32:26.325][warn] [#0:script/plugin.lua:101]: plugin not found:	/home/gatsu/.config/awesome
+[06:32:26.325][info] [#0:script/library.lua:209]: Init builtin library at:	nil
+[06:32:26.332][info] [#0:script/provider/provider.lua:56]: Load config from client	fallback
+[06:32:26.332][info] [#0:script/provider/provider.lua:57]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/usr/share/nvim/runtime/lua"] = true,
+        ["/usr/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[06:32:26.332][info] [#0:script/provider/provider.lua:56]: Load config from client	fallback
+[06:32:26.332][info] [#0:script/provider/provider.lua:57]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/usr/share/nvim/runtime/lua"] = true,
+        ["/usr/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[06:32:26.433][info] [#0:script/workspace/workspace.lua:304]: Preload start:	file:///home/gatsu/.config/awesome
+[06:32:26.435][info] [#0:script/workspace/workspace.lua:310]: Scan files at:	file:///home/gatsu/.config/awesome
+[06:32:26.439][info] [#0:script/workspace/workspace.lua:304]: Preload start:	<fallback>
+[06:32:26.439][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/meta/Lua%205.4%20en-us%20utf8
+[06:32:26.440][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///usr/share/nvim/runtime/lua
+[06:32:26.441][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///usr/share/nvim/runtime/lua/vim/lsp
+[06:32:26.448][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/meta/Lua%205.4%20en-us%20utf8
+[06:32:26.448][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///usr/share/nvim/runtime/lua
+[06:32:26.448][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///usr/share/nvim/runtime/lua/vim/lsp
+[06:32:26.549][info] [#0:script/workspace/workspace.lua:347]: Found 60 files at:	<fallback>
+[06:32:26.549][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	<fallback>
+[06:32:26.549][info] [#0:script/workspace/workspace.lua:347]: Found 72 files at:	file:///home/gatsu/.config/awesome
+[06:32:26.549][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	file:///home/gatsu/.config/awesome
+[06:32:26.778][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.241] sec: file:///home/gatsu/.config/awesome
+[06:32:26.778][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: file:///home/gatsu/.config/awesome
+[06:32:26.778][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	file:///home/gatsu/.config/awesome
+[06:32:26.778][info] [#0:script/workspace/workspace.lua:349]: Preload finish at:	file:///home/gatsu/.config/awesome
+[06:32:26.916][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.279] sec: <fallback>
+[06:32:26.916][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: <fallback>
+[06:32:26.916][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	<fallback>
+[06:32:26.916][info] [#0:script/workspace/workspace.lua:349]: Preload finish at:	<fallback>
+[06:32:26.925][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
+[06:32:27.026][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
+[06:32:27.837][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///home/gatsu/.config/awesome], files count:[61]
+[06:32:28.038][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///home/gatsu/.config/awesome] finished, takes [0.201] sec.
+[06:32:54.217][info] [#0:script/workspace/workspace.lua:264]: Scan files at:	file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:32:54.217][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:32:54.218][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:32:54.218][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:32:54.218][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:32:56.402][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///home/gatsu/.config/awesome], files count:[61]
+[06:32:56.564][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///home/gatsu/.config/awesome] finished, takes [0.162] sec.
+[06:33:25.232][info] [#0:script/workspace/workspace.lua:264]: Scan files at:	file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:33:25.233][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:33:25.233][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:33:25.233][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:33:25.233][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:33:27.406][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///home/gatsu/.config/awesome], files count:[61]
+[06:33:27.623][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///home/gatsu/.config/awesome] finished, takes [0.217] sec.
+[06:33:55.224][info] [#0:script/workspace/workspace.lua:264]: Scan files at:	file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:33:55.225][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:33:55.225][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:33:55.225][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:33:55.225][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:33:57.911][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///home/gatsu/.config/awesome], files count:[61]
+[06:33:58.111][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///home/gatsu/.config/awesome] finished, takes [0.194] sec.
+[06:35:45.240][info] [#0:script/workspace/workspace.lua:264]: Scan files at:	file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:35:45.241][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:35:45.241][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:35:45.241][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:35:45.241][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:35:47.525][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///home/gatsu/.config/awesome], files count:[61]
+[06:35:47.717][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///home/gatsu/.config/awesome] finished, takes [0.192] sec.
+[06:35:55.299][info] [#0:script/workspace/workspace.lua:264]: Scan files at:	file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:35:55.300][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:35:55.300][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:35:55.300][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:35:55.300][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:35:57.526][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///home/gatsu/.config/awesome], files count:[61]
+[06:35:57.733][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///home/gatsu/.config/awesome] finished, takes [0.207] sec.
+[06:37:26.263][info] [#0:script/workspace/workspace.lua:264]: Scan files at:	file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:37:26.264][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:37:26.264][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:37:26.264][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:37:26.264][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[06:37:28.440][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///home/gatsu/.config/awesome], files count:[61]
+[06:37:28.651][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///home/gatsu/.config/awesome] finished, takes [0.212] sec.
+[06:42:26.256][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 83.638 MB
+        # 00 : 83.139 MB
+        # 01 : 0.180 MB
+        # 02 : 0.228 MB
+        # 03 : 0.046 MB
+        # 04 : 0.046 MB
+    --------------- Coroutine ---------------
+        Total:     28
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      28
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[06:42:36.368][info] [#0:script/workspace/workspace.lua:264]: Scan files at:	file:///home/gatsu/.config/awesome/rc.lua
+[06:42:36.368][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	file:///home/gatsu/.config/awesome/rc.lua
+[06:42:36.368][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.000] sec: file:///home/gatsu/.config/awesome/rc.lua
+[06:42:36.368][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: file:///home/gatsu/.config/awesome/rc.lua
+[06:42:36.368][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	file:///home/gatsu/.config/awesome/rc.lua
+[06:42:39.384][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///home/gatsu/.config/awesome], files count:[61]
+[06:42:39.584][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///home/gatsu/.config/awesome] finished, takes [0.200] sec.
+[06:42:53.389][info] [#0:script/workspace/workspace.lua:264]: Scan files at:	file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:42:53.390][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:42:53.390][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:42:53.390][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:42:53.390][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:42:56.089][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///home/gatsu/.config/awesome], files count:[61]
+[06:42:56.294][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///home/gatsu/.config/awesome] finished, takes [0.204] sec.
+[06:45:03.322][info] [#0:script/workspace/workspace.lua:264]: Scan files at:	file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:45:03.323][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:45:03.323][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:45:03.323][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:45:03.323][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:45:07.407][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///home/gatsu/.config/awesome], files count:[61]
+[06:45:07.610][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///home/gatsu/.config/awesome] finished, takes [0.203] sec.
+[06:45:12.361][info] [#0:script/workspace/workspace.lua:264]: Scan files at:	file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:45:12.362][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:45:12.362][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:45:12.362][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:45:12.362][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:45:16.408][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///home/gatsu/.config/awesome], files count:[61]
+[06:45:16.607][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///home/gatsu/.config/awesome] finished, takes [0.199] sec.
+[06:46:36.429][info] [#0:script/workspace/workspace.lua:264]: Scan files at:	file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:46:36.430][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:46:36.430][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:46:36.430][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:46:36.430][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:46:38.921][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///home/gatsu/.config/awesome], files count:[61]
+[06:46:39.214][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///home/gatsu/.config/awesome] finished, takes [0.292] sec.
+[06:47:39.350][info] [#0:script/workspace/workspace.lua:264]: Scan files at:	file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:47:39.351][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:47:39.351][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:47:39.351][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:47:39.351][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:47:42.031][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///home/gatsu/.config/awesome], files count:[61]
+[06:47:42.323][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///home/gatsu/.config/awesome] finished, takes [0.292] sec.
+[06:49:23.458][info] [#0:script/workspace/workspace.lua:264]: Scan files at:	file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:49:23.458][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:49:23.459][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:49:23.459][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:49:23.459][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:49:26.349][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///home/gatsu/.config/awesome], files count:[61]
+[06:49:26.637][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///home/gatsu/.config/awesome] finished, takes [0.287] sec.
+[06:51:19.379][info] [#0:script/workspace/workspace.lua:264]: Scan files at:	file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:51:19.380][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:51:19.380][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:51:19.380][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:51:19.380][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[06:51:21.866][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///home/gatsu/.config/awesome], files count:[61]
+[06:51:22.073][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///home/gatsu/.config/awesome] finished, takes [0.207] sec.
+[06:52:26.276][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 76.150 MB
+        # 00 : 75.651 MB
+        # 01 : 0.180 MB
+        # 02 : 0.228 MB
+        # 03 : 0.046 MB
+        # 04 : 0.046 MB
+    --------------- Coroutine ---------------
+        Total:     10
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      10
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[07:02:26.365][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 76.821 MB
+        # 00 : 76.322 MB
+        # 01 : 0.180 MB
+        # 02 : 0.228 MB
+        # 03 : 0.046 MB
+        # 04 : 0.046 MB
+    --------------- Coroutine ---------------
+        Total:     10
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      10
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[07:12:26.370][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 77.493 MB
+        # 00 : 76.994 MB
+        # 01 : 0.180 MB
+        # 02 : 0.228 MB
+        # 03 : 0.046 MB
+        # 04 : 0.046 MB
+    --------------- Coroutine ---------------
+        Total:     10
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      10
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[07:22:26.466][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 78.165 MB
+        # 00 : 77.666 MB
+        # 01 : 0.180 MB
+        # 02 : 0.228 MB
+        # 03 : 0.046 MB
+        # 04 : 0.046 MB
+    --------------- Coroutine ---------------
+        Total:     10
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      10
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[07:32:26.558][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 78.836 MB
+        # 00 : 78.337 MB
+        # 01 : 0.180 MB
+        # 02 : 0.228 MB
+        # 03 : 0.046 MB
+        # 04 : 0.046 MB
+    --------------- Coroutine ---------------
+        Total:     10
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      10
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[07:42:26.626][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 79.508 MB
+        # 00 : 79.009 MB
+        # 01 : 0.180 MB
+        # 02 : 0.228 MB
+        # 03 : 0.046 MB
+        # 04 : 0.046 MB
+    --------------- Coroutine ---------------
+        Total:     10
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      10
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[07:52:26.696][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 80.180 MB
+        # 00 : 79.681 MB
+        # 01 : 0.180 MB
+        # 02 : 0.228 MB
+        # 03 : 0.046 MB
+        # 04 : 0.046 MB
+    --------------- Coroutine ---------------
+        Total:     10
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      10
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[08:02:26.781][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 80.851 MB
+        # 00 : 80.352 MB
+        # 01 : 0.180 MB
+        # 02 : 0.228 MB
+        # 03 : 0.046 MB
+        # 04 : 0.046 MB
+    --------------- Coroutine ---------------
+        Total:     10
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      10
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[08:12:26.869][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 81.523 MB
+        # 00 : 81.024 MB
+        # 01 : 0.180 MB
+        # 02 : 0.228 MB
+        # 03 : 0.046 MB
+        # 04 : 0.046 MB
+    --------------- Coroutine ---------------
+        Total:     10
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      10
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[08:22:26.960][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 82.195 MB
+        # 00 : 81.696 MB
+        # 01 : 0.180 MB
+        # 02 : 0.228 MB
+        # 03 : 0.046 MB
+        # 04 : 0.046 MB
+    --------------- Coroutine ---------------
+        Total:     10
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      10
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[08:32:27.039][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 82.866 MB
+        # 00 : 82.367 MB
+        # 01 : 0.180 MB
+        # 02 : 0.228 MB
+        # 03 : 0.046 MB
+        # 04 : 0.046 MB
+    --------------- Coroutine ---------------
+        Total:     10
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      10
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[08:42:27.116][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 83.538 MB
+        # 00 : 83.039 MB
+        # 01 : 0.180 MB
+        # 02 : 0.228 MB
+        # 03 : 0.046 MB
+        # 04 : 0.046 MB
+    --------------- Coroutine ---------------
+        Total:     10
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      10
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[08:52:27.203][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 76.655 MB
+        # 00 : 76.156 MB
+        # 01 : 0.180 MB
+        # 02 : 0.228 MB
+        # 03 : 0.046 MB
+        # 04 : 0.046 MB
+    --------------- Coroutine ---------------
+        Total:     10
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      10
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[08:54:54.255][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/gatsu/.config/awesome/themes/vertex/theme.lua
+[08:54:54.257][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/gatsu/.config/awesome/themes/copland/theme.lua
+[08:54:54.260][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/gatsu/.config/awesome/themes/dremora/theme.lua
+[08:54:54.260][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/gatsu/.config/awesome/themes/powerarrow/binclock.lua
+[08:54:54.260][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/gatsu/.config/awesome/themes/powerarrow-dark/theme.lua
+[08:54:54.260][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/gatsu/.config/awesome/themes/rainbow/theme.lua
+[08:54:54.260][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/gatsu/.config/awesome/themes/steamburn/theme.lua
+[08:54:54.260][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/gatsu/.config/awesome/themes/holo/theme.lua
+[08:54:54.260][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/gatsu/.config/awesome/themes/blackburn/theme.lua
+[08:54:54.337][info] [#0:script/library.lua:209]: Init builtin library at:	file:///home/gatsu/.config/awesome
+[08:54:54.340][info] [#0:script/plugin.lua:86]: plugin path:	/home/gatsu/.config/awesome
+[08:54:54.340][warn] [#0:script/plugin.lua:101]: plugin not found:	/home/gatsu/.config/awesome
+[08:54:54.344][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/gatsu/.config/awesome/themes/powerarrow/theme.lua
+[08:54:54.380][info] [#0:script/library.lua:209]: Init builtin library at:	file:///home/gatsu/.config/awesome
+[08:54:54.380][info] [#0:script/plugin.lua:86]: plugin path:	/home/gatsu/.config/awesome
+[08:54:54.380][warn] [#0:script/plugin.lua:101]: plugin not found:	/home/gatsu/.config/awesome
+[08:54:54.382][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/gatsu/.config/awesome/themes/multicolor/theme.lua
+[08:54:54.426][info] [#0:script/library.lua:209]: Init builtin library at:	file:///home/gatsu/.config/awesome
+[08:54:54.426][info] [#0:script/plugin.lua:86]: plugin path:	/home/gatsu/.config/awesome
+[08:54:54.426][warn] [#0:script/plugin.lua:101]: plugin not found:	/home/gatsu/.config/awesome
+[08:54:55.423][info] [#0:script/workspace/workspace.lua:304]: Preload start:	file:///home/gatsu/.config/awesome
+[08:54:55.424][info] [#0:script/workspace/workspace.lua:310]: Scan files at:	file:///home/gatsu/.config/awesome
+[08:54:55.426][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/meta/Lua%205.4%20en-us%20utf8
+[08:54:55.427][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///usr/share/nvim/runtime/lua
+[08:54:55.430][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///usr/share/nvim/runtime/lua/vim/lsp
+[08:54:55.531][info] [#0:script/workspace/workspace.lua:347]: Found 62 files at:	file:///home/gatsu/.config/awesome
+[08:54:55.532][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	file:///home/gatsu/.config/awesome
+[08:54:55.741][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.009] sec: file:///home/gatsu/.config/awesome
+[08:54:55.741][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: file:///home/gatsu/.config/awesome
+[08:54:55.741][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	file:///home/gatsu/.config/awesome
+[08:54:55.741][info] [#0:script/workspace/workspace.lua:349]: Preload finish at:	file:///home/gatsu/.config/awesome
+[08:54:55.841][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///home/gatsu/.config/awesome], files count:[50]
+[08:54:55.841][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
+[08:54:55.910][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///home/gatsu/.config/awesome] finished, takes [0.069] sec.
+[08:54:56.612][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///home/gatsu/.config/awesome], files count:[50]
+[08:54:56.677][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///home/gatsu/.config/awesome] finished, takes [0.065] sec.
+[08:55:41.467][info] [#0:script/provider/provider.lua:170]: Server shutdown.
+[08:55:41.568][info] [#0:script/provider/provider.lua:163]: Server exited.

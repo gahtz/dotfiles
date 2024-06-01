@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/gatsu/.config" added="2023-01-09T16:54:21.810112Z" modified="2024-06-01T16:52:30.129117Z" visited="2023-01-09T16:54:21.810113Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-01T16:52:30.129113Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gatsu/.config/neofetch" added="2024-06-01T16:51:13.895759Z" modified="2024-06-01T16:51:18.261759Z" visited="2024-06-01T16:51:13.895761Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-01T16:51:18.261755Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gatsu/.config/neofetch/config.conf" added="2024-06-01T16:51:19.079296Z" modified="2024-06-01T16:51:19.079306Z" visited="2024-06-01T16:51:19.079297Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-01T16:51:19.079300Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gatsu/.themes" added="2024-06-01T16:51:24.829271Z" modified="2024-06-01T16:51:24.829280Z" visited="2024-06-01T16:51:24.829272Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-01T16:51:24.829275Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gatsu/rofi-themes-collection" added="2024-06-01T16:51:28.954427Z" modified="2024-06-01T16:51:28.954438Z" visited="2024-06-01T16:51:28.954428Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-01T16:51:28.954432Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gatsu/rofi-themes-collection/screenshots" added="2024-06-01T16:51:30.356854Z" modified="2024-06-01T16:51:30.356865Z" visited="2024-06-01T16:51:30.356856Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-01T16:51:30.356859Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gatsu/rofi-themes-collection/screenshots/IMG_launchpad.png" added="2024-06-01T16:51:31.150218Z" modified="2024-06-01T16:51:31.150227Z" visited="2024-06-01T16:51:31.150219Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-01T16:51:31.150222Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gatsu/rofi-themes-collection/screenshots/IMG_windows11.jpg" added="2024-06-01T16:51:35.255230Z" modified="2024-06-01T16:51:35.255239Z" visited="2024-06-01T16:51:35.255232Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-01T16:51:35.255235Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gatsu/rofi-themes-collection/screenshots/IMG_simple-tokyonight.jpg" added="2024-06-01T16:51:37.024935Z" modified="2024-06-01T16:51:37.024946Z" visited="2024-06-01T16:51:37.024937Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-01T16:51:37.024940Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gatsu/rofi-themes-collection/screenshots/IMG_rounded-green-dark.png" added="2024-06-01T16:51:39.413587Z" modified="2024-06-01T16:51:39.413599Z" visited="2024-06-01T16:51:39.413589Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-01T16:51:39.413593Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gatsu/Books" added="2024-06-01T16:51:46.510541Z" modified="2024-06-01T16:51:50.876040Z" visited="2024-06-01T16:51:46.510542Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-01T16:51:50.876036Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gatsu/Books/(MIT%20Electrical%20Engineering%20and%20Computer%20Science)%20Harold%20Abelson,%20Gerald%20Jay%20Sussman%20-%20Structure%20and%20Interpretation%20of%20Computer%20Programs%20-%202nd%20Edition-The%20MIT%20Press%20(1996).pdf" added="2024-06-01T16:51:51.603137Z" modified="2024-06-01T16:51:51.603148Z" visited="2024-06-01T16:51:51.603138Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-01T16:51:51.603142Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gatsu/.thunderbird" added="2024-06-01T16:52:01.091558Z" modified="2024-06-01T16:52:01.091567Z" visited="2024-06-01T16:52:01.091560Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-01T16:52:01.091562Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gatsu/.thunderbird/installs.ini" added="2024-06-01T16:52:03.767555Z" modified="2024-06-01T16:52:03.767557Z" visited="2024-06-01T16:52:03.767555Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-01T16:52:03.767556Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gatsu/.config/awesome" added="2024-06-01T16:52:30.811517Z" modified="2024-06-01T16:52:30.811526Z" visited="2024-06-01T16:52:30.811518Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-01T16:52:30.811521Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gatsu/.config/awesome/autorun.sh" added="2024-06-01T16:52:35.062755Z" modified="2024-06-01T16:52:35.062764Z" visited="2024-06-01T16:52:35.062757Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-01T16:52:35.062760Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gatsu/.config/awesome/neofetch_start.conf" added="2024-06-01T16:53:53.513971Z" modified="2024-06-01T16:53:53.513980Z" visited="2024-06-01T16:53:53.513972Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-01T16:53:53.513975Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gatsu/Downloads" added="2024-06-01T17:02:14.392073Z" modified="2024-06-01T17:02:14.392082Z" visited="2024-06-01T17:02:14.392074Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-01T17:02:14.392077Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gatsu/.viminfo" added="2024-06-01T17:02:23.824228Z" modified="2024-06-01T17:02:23.824231Z" visited="2024-06-01T17:02:23.824228Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-01T17:02:23.824229Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///" added="2024-06-01T17:06:50.507168Z" modified="2024-06-01T17:06:50.507177Z" visited="2024-06-01T17:06:50.507169Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-01T17:06:50.507173Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/gatsu" added="2024-06-01T17:06:53.347385Z" modified="2024-06-01T17:06:53.347393Z" visited="2024-06-01T17:06:53.347386Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-06-01T17:06:53.347389Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

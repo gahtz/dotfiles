@@ -1,0 +1,221 @@
+[05:45:37.844][info] [#0:/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:66]: Lua Lsp startup, root: 	/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server
+[05:45:37.844][info] [#0:/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:67]: ROOT:	/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server
+[05:45:37.844][info] [#0:/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:68]: LOGPATH:	/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/log
+[05:45:37.844][info] [#0:/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:69]: METAPATH:	/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/meta
+[05:45:37.844][info] [#0:/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:70]: VERSION:	3.6.4-dev
+[05:45:37.857][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 1.563 MB
+        # 00 : 1.563 MB
+        # 01 : 0.000 MB
+        # 02 : 0.000 MB
+        # 03 : 0.000 MB
+        # 04 : 0.000 MB
+    --------------- Coroutine ---------------
+        Total:     0
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      0
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[05:45:37.859][info] [#0:script/language.lua:137]: VSC language: nil
+[05:45:37.859][info] [#0:script/language.lua:138]: LS  language: en-us
+[05:45:37.859][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/gatsu/.local/share/nvim/site/pack/packer/start/base46
+[05:45:37.859][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/log/file_home_gatsu_.local_share_nvim_site_pack_packer_start_base46.log
+[05:45:37.859][info] [#0:script/workspace/workspace.lua:51]: Workspace create: 	file:///home/gatsu/.local/share/nvim/site/pack/packer/start/base46
+[05:45:37.860][info] [#0:script/provider/provider.lua:41]: Load config from client	file:///home/gatsu/.local/share/nvim/site/pack/packer/start/base46
+[05:45:37.860][info] [#0:script/provider/provider.lua:42]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/usr/share/nvim/runtime/lua"] = true,
+        ["/usr/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[05:45:37.860][info] [#0:script/provider/provider.lua:41]: Load config from client	file:///home/gatsu/.local/share/nvim/site/pack/packer/start/base46
+[05:45:37.860][info] [#0:script/provider/provider.lua:42]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/usr/share/nvim/runtime/lua"] = true,
+        ["/usr/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[05:45:37.860][info] [#0:script/provider/provider.lua:41]: Load config from client	file:///home/gatsu/.local/share/nvim/site/pack/packer/start/base46
+[05:45:37.860][info] [#0:script/provider/provider.lua:42]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/usr/share/nvim/runtime/lua"] = true,
+        ["/usr/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[05:45:37.860][info] [#0:script/provider/provider.lua:56]: Load config from client	fallback
+[05:45:37.860][info] [#0:script/provider/provider.lua:57]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/usr/share/nvim/runtime/lua"] = true,
+        ["/usr/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[05:45:37.861][info] [#0:script/library.lua:209]: Init builtin library at:	file:///home/gatsu/.local/share/nvim/site/pack/packer/start/base46
+[05:45:37.864][info] [#0:script/plugin.lua:86]: plugin path:	/home/gatsu/.local/share/nvim/site/pack/packer/start/base46
+[05:45:37.864][warn] [#0:script/plugin.lua:101]: plugin not found:	/home/gatsu/.local/share/nvim/site/pack/packer/start/base46
+[05:45:37.865][info] [#0:script/library.lua:209]: Init builtin library at:	nil
+[05:45:37.869][info] [#0:script/provider/provider.lua:56]: Load config from client	fallback
+[05:45:37.869][info] [#0:script/provider/provider.lua:57]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/usr/share/nvim/runtime/lua"] = true,
+        ["/usr/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[05:45:37.869][info] [#0:script/provider/provider.lua:56]: Load config from client	fallback
+[05:45:37.869][info] [#0:script/provider/provider.lua:57]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/usr/share/nvim/runtime/lua"] = true,
+        ["/usr/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[05:45:37.969][info] [#0:script/workspace/workspace.lua:304]: Preload start:	file:///home/gatsu/.local/share/nvim/site/pack/packer/start/base46
+[05:45:37.972][info] [#0:script/workspace/workspace.lua:310]: Scan files at:	file:///home/gatsu/.local/share/nvim/site/pack/packer/start/base46
+[05:45:37.975][info] [#0:script/workspace/workspace.lua:304]: Preload start:	<fallback>
+[05:45:37.977][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/meta/Lua%205.4%20en-us%20utf8
+[05:45:37.981][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///usr/share/nvim/runtime/lua
+[05:45:37.987][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///usr/share/nvim/runtime/lua/vim/lsp
+[05:45:37.990][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/meta/Lua%205.4%20en-us%20utf8
+[05:45:37.991][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///usr/share/nvim/runtime/lua
+[05:45:37.992][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///usr/share/nvim/runtime/lua/vim/lsp
+[05:45:38.092][info] [#0:script/workspace/workspace.lua:347]: Found 60 files at:	<fallback>
+[05:45:38.092][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	<fallback>
+[05:45:38.092][info] [#0:script/workspace/workspace.lua:347]: Found 128 files at:	file:///home/gatsu/.local/share/nvim/site/pack/packer/start/base46
+[05:45:38.092][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	file:///home/gatsu/.local/share/nvim/site/pack/packer/start/base46
+[05:45:38.286][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.205] sec: <fallback>
+[05:45:38.286][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: <fallback>
+[05:45:38.286][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	<fallback>
+[05:45:38.286][info] [#0:script/workspace/workspace.lua:349]: Preload finish at:	<fallback>
+[05:45:38.291][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
+[05:45:38.491][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.310] sec: file:///home/gatsu/.local/share/nvim/site/pack/packer/start/base46
+[05:45:38.491][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: file:///home/gatsu/.local/share/nvim/site/pack/packer/start/base46
+[05:45:38.491][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	file:///home/gatsu/.local/share/nvim/site/pack/packer/start/base46
+[05:45:38.491][info] [#0:script/workspace/workspace.lua:349]: Preload finish at:	file:///home/gatsu/.local/share/nvim/site/pack/packer/start/base46
+[05:45:38.509][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///home/gatsu/.local/share/nvim/site/pack/packer/start/base46], files count:[116]
+[05:45:38.509][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
+[05:45:38.651][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///home/gatsu/.local/share/nvim/site/pack/packer/start/base46] finished, takes [0.142] sec.
+[05:55:37.943][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 63.281 MB
+        # 00 : 62.850 MB
+        # 01 : 0.046 MB
+        # 02 : 0.046 MB
+        # 03 : 0.177 MB
+        # 04 : 0.163 MB
+    --------------- Coroutine ---------------
+        Total:     1010
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      1010
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[06:05:38.029][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 64.091 MB
+        # 00 : 63.660 MB
+        # 01 : 0.046 MB
+        # 02 : 0.046 MB
+        # 03 : 0.177 MB
+        # 04 : 0.163 MB
+    --------------- Coroutine ---------------
+        Total:     1010
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      1010
+    --------------- Cache ---------------
+        Total: 2
+        Dead:  1
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[06:07:35.444][info] [#0:script/provider/provider.lua:170]: Server shutdown.
+[06:07:35.444][warn] [#0:script/pub/report.lua:25]: Load proto error:	Disconnected!

@@ -1,0 +1,179 @@
+[05:51:10.426][info] [#0:/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:66]: Lua Lsp startup, root: 	/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server
+[05:51:10.426][info] [#0:/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:67]: ROOT:	/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server
+[05:51:10.426][info] [#0:/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:68]: LOGPATH:	/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/log
+[05:51:10.426][info] [#0:/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:69]: METAPATH:	/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/meta
+[05:51:10.426][info] [#0:/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/main.lua:70]: VERSION:	3.6.4-dev
+[05:51:10.439][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 1.563 MB
+        # 00 : 1.563 MB
+        # 01 : 0.000 MB
+        # 02 : 0.000 MB
+        # 03 : 0.000 MB
+        # 04 : 0.000 MB
+    --------------- Coroutine ---------------
+        Total:     0
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      0
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[05:51:10.441][info] [#0:script/language.lua:137]: VSC language: nil
+[05:51:10.441][info] [#0:script/language.lua:138]: LS  language: en-us
+[05:51:10.441][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/gatsu/.config/nvim
+[05:51:10.441][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/log/file_home_gatsu_.config_nvim.log
+[05:51:10.441][info] [#0:script/workspace/workspace.lua:51]: Workspace create: 	file:///home/gatsu/.config/nvim
+[05:51:10.542][info] [#0:script/provider/provider.lua:41]: Load config from client	file:///home/gatsu/.config/nvim
+[05:51:10.543][info] [#0:script/provider/provider.lua:42]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/usr/share/nvim/runtime/lua"] = true,
+        ["/usr/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[05:51:10.543][info] [#0:script/provider/provider.lua:41]: Load config from client	file:///home/gatsu/.config/nvim
+[05:51:10.543][info] [#0:script/provider/provider.lua:42]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/usr/share/nvim/runtime/lua"] = true,
+        ["/usr/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[05:51:10.544][info] [#0:script/provider/provider.lua:41]: Load config from client	file:///home/gatsu/.config/nvim
+[05:51:10.544][info] [#0:script/provider/provider.lua:42]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/usr/share/nvim/runtime/lua"] = true,
+        ["/usr/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[05:51:10.544][info] [#0:script/provider/provider.lua:56]: Load config from client	fallback
+[05:51:10.544][info] [#0:script/provider/provider.lua:57]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/usr/share/nvim/runtime/lua"] = true,
+        ["/usr/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[05:51:10.544][info] [#0:script/library.lua:209]: Init builtin library at:	file:///home/gatsu/.config/nvim
+[05:51:10.571][info] [#0:script/plugin.lua:86]: plugin path:	/home/gatsu/.config/nvim
+[05:51:10.571][warn] [#0:script/plugin.lua:101]: plugin not found:	/home/gatsu/.config/nvim
+[05:51:10.571][info] [#0:script/library.lua:209]: Init builtin library at:	nil
+[05:51:10.578][info] [#0:script/provider/provider.lua:56]: Load config from client	fallback
+[05:51:10.578][info] [#0:script/provider/provider.lua:57]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/usr/share/nvim/runtime/lua"] = true,
+        ["/usr/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[05:51:10.578][info] [#0:script/provider/provider.lua:56]: Load config from client	fallback
+[05:51:10.578][info] [#0:script/provider/provider.lua:57]: {
+  Lua = {
+    diagnostics = {
+      globals = { "vim" }
+    },
+    telemetry = {
+      enable = false
+    },
+    workspace = {
+      library = {
+        ["/usr/share/nvim/runtime/lua"] = true,
+        ["/usr/share/nvim/runtime/lua/vim/lsp"] = true
+      },
+      maxPreload = 100000,
+      preloadFileSize = 10000
+    }
+  }
+}
+[05:51:10.678][info] [#0:script/workspace/workspace.lua:304]: Preload start:	file:///home/gatsu/.config/nvim
+[05:51:10.681][info] [#0:script/workspace/workspace.lua:310]: Scan files at:	file:///home/gatsu/.config/nvim
+[05:51:10.683][info] [#0:script/workspace/workspace.lua:304]: Preload start:	<fallback>
+[05:51:10.684][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/meta/Lua%205.4%20en-us%20utf8
+[05:51:10.684][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///usr/share/nvim/runtime/lua
+[05:51:10.686][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///usr/share/nvim/runtime/lua/vim/lsp
+[05:51:10.686][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///home/gatsu/.local/share/nvim/mason/packages/lua-language-server/extension/server/meta/Lua%205.4%20en-us%20utf8
+[05:51:10.686][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///usr/share/nvim/runtime/lua
+[05:51:10.687][info] [#0:script/workspace/workspace.lua:327]: Scan library at:	file:///usr/share/nvim/runtime/lua/vim/lsp
+[05:51:10.787][info] [#0:script/workspace/workspace.lua:347]: Found 60 files at:	<fallback>
+[05:51:10.787][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	<fallback>
+[05:51:10.787][info] [#0:script/workspace/workspace.lua:347]: Found 78 files at:	file:///home/gatsu/.config/nvim
+[05:51:10.787][info] [#0:script/workspace/loading.lua:157]: Load files from disk:	file:///home/gatsu/.config/nvim
+[05:51:11.103][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.229] sec: <fallback>
+[05:51:11.104][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: <fallback>
+[05:51:11.104][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	<fallback>
+[05:51:11.104][info] [#0:script/workspace/workspace.lua:349]: Preload finish at:	<fallback>
+[05:51:11.113][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
+[05:51:11.214][info] [#0:script/workspace/loading.lua:169]: Loaded files takes [0.240] sec: file:///home/gatsu/.config/nvim
+[05:51:11.214][info] [#0:script/workspace/loading.lua:178]: Compile files takes [0.000] sec: file:///home/gatsu/.config/nvim
+[05:51:11.214][info] [#0:script/workspace/loading.lua:179]: Loaded finish:	file:///home/gatsu/.config/nvim
+[05:51:11.214][info] [#0:script/workspace/workspace.lua:349]: Preload finish at:	file:///home/gatsu/.config/nvim
+[05:51:11.247][info] [#0:script/provider/diagnostic.lua:552]: Diagnostics scope [file:///home/gatsu/.config/nvim], files count:[66]
+[05:51:11.248][warn] [#0:script/proto/proto.lua:122]: Response of [workspace/diagnostic/refresh] error [-32601]: MethodNotFound
+[05:51:11.306][info] [#0:script/provider/diagnostic.lua:569]: Diagnostics scope [file:///home/gatsu/.config/nvim] finished, takes [0.059] sec.
+[05:54:52.244][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/gatsu/.config/nvim/lua/core/default_config.lua
+[05:54:52.969][info] [#0:script/provider/diagnostic.lua:171]: clearDiagnostics	file:///home/gatsu/.config/nvim/lua/core/default_config.lua
+[05:54:53.873][info] [#0:script/provider/provider.lua:170]: Server shutdown.
+[05:54:53.873][warn] [#0:script/pub/report.lua:25]: Load proto error:	Disconnected!
